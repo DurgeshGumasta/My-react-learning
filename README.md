@@ -1,12 +1,53 @@
-# React + Vite
+# React Core Mastery
+- useState, useEffect, useRef, useContext
+- Conditional rendering 
+- Component composition
+- Reusable components and props
+- Controlled vs uncontrolled components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React Router
+- react-router-dom v6
+- <BrowserRouter>, <Routes>, <Route>
+- useNavigate, useParams, useLocation
 
-Currently, two official plugins are available:
+# API Integration
+- fetch, axios
+- useEffect with async calls
+- Loading and error handling
+- Environment variables for API URLs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#  Custom Hooks
 
-## Expanding the ESLint configuration
+# UI Libraries
+- Material UI (MUI) – professional and flexible
+- Tailwind CSS – utility-first CSS framework
+- ShadCN/UI (if using Tailwind)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# UI Libraries
+- Material UI (MUI) – professional and flexible
+- Tailwind CSS – utility-first CSS framework
+- ShadCN/UI (if using Tailwind)
+
+# Form Handling & Validation (npm install react-hook-form yup @hookform/resolvers
+)
+- Real apps have forms:
+- react-hook-form (very popular)
+- yup or zod for schema validation
+
+ # Authentication
+- JWT-based login
+- Firebase Auth or Auth0
+- Protected routes with react-router
+
+ # Testing
+- Make sure your code doesn’t break:
+- Unit Testing with Jest
+- Component Testing with React Testing Library
+
+ # API Integration
+- You’ll often need to fetch data:
+- fetch, axios
+- useEffect with async calls
+- Loading and error handling
+- Environment variables for API URLs
+
